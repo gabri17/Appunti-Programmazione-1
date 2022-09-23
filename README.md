@@ -6,7 +6,7 @@ Esito esame: 30 e lode.
 
 Questi appunti rispecchiano nella maggior parte dei casi le slide del corso, ma non si limitano ad un semplice copia e incolla: ho infatti cercato di aggiungere quello che il professore diceva in più a lezione, oltre che qualche esempio di codice concreto che mi ha personalmente aiutato a capire meglio.
 
-Sono state caricate due cartelle, ognuna contiente li stessi appunti: una in formato pdf e una in formato odt.
+Sono state caricate due cartelle, ognuna contiente li stessi appunti: in una sono in formato pdf e in una in formato odt.
 
 DISCLAIMER!
 Non voglio che nessuno pensi che questi appunti siano un valido sostituto alla partecipazione alle lezioni che secondo me è il modo migliroe per apprendere. Possono essere uno strumento in più per qualcuno che vuole capire meglio quello spiegato a lezione o che vuole avere materiale diverso su cui confrontarsi.
