@@ -11,10 +11,10 @@ Sono state caricate due cartelle, ognuna contiente li stessi appunti: in una son
 ## DISCLAIMER!
 Non voglio che nessuno pensi che questi appunti siano un valido sostituto alla partecipazione alle lezioni che secondo me è il modo migliroe per apprendere. Possono essere uno strumento in più per qualcuno che vuole capire meglio quello spiegato a lezione o che vuole avere materiale diverso su cui confrontarsi.
 
-
 Mi scuso se sono presenti eventuali errori ortografici, in tal caso potete contattarmi all'email che scriverò sotto.
 Lo stesso vale per eventuali errori che presentano i codici che ho scritto (non dovrebbero essercene perché li ho controllati personalmente, però non si sa mai) e per eventuali obiezione che qualcuno può avere sul contenuto (mi sono limitato a prendere le slide del corso e a seguire le lezioni del professore).
 
+## Feedback
 Per finire, sarei più che contento di ricevere vostri feedback sul contenuto di questi appunti e suggerimenti di qualsiasi tipo su come/cosa migliorare. Come detto sopra, per qualsiasi errore presente nel testo non esitate a contattarmi.
 
 Indirizzo email: gitgabriele@gmail.com
