@@ -17,4 +17,4 @@ Lo stesso vale per eventuali errori che presentano i codici che ho scritto (non 
 ## Feedback
 Per finire, sarei più che contento di ricevere vostri feedback sul contenuto di questi appunti e suggerimenti di qualsiasi tipo su come/cosa migliorare. Come detto sopra, per qualsiasi errore presente nel testo non esitate a contattarmi.
 
-Indirizzo email: gitgabriele@gmail.com
+Indirizzo email: gabrielevolani02@gmail.com
